@@ -1,4 +1,4 @@
-import { printName, jafarianName } from "./guli"
-import printMamad from "./mamad"
+import { printName, jafarianName } from "./guli.js"
+import printMamad from "./mamad.js"
 
-printName("sldjfklsjdflkjslkdfj")
+printMamad()
